@@ -7,12 +7,13 @@
   - Chemical Instrument & Automation
   - Computer Vision
   - Data Analysis
+  - OntoCAPE
   - Front-end Development
 - 🌱 I’m currently learning 躺平 & 找女朋友
 - 💬 Ask me about anything you like
 - 📫 How to reach me: 
   - TG: Telegram：[`@shevonkuan`](https://t.me/shevonkuan)
-  - Email: [📧](mailto:shevonkuan@shevonpeng.cn)
+  - Email: [📧](mailto:shevonkuan@datagrids.cn)
 
 
 
