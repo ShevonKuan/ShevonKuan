@@ -1,8 +1,5 @@
-### Hi , I am ShevonKwan👋
 
-
-
-
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 - 🔭 I’m currently working on 
   - Chemical Instrument & Automation
   - Computer Vision
