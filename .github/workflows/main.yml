@@ -17,6 +17,7 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -30,6 +31,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_display: columns
           config_octicon: yes
+          config_padding: 0, 8+11%
           config_timezone: Asia/Shanghai
           plugin_activity: yes
           plugin_activity_days: 14
@@ -76,3 +78,4 @@ jobs:
           plugin_notable_types: commit
           plugin_stars: yes
           plugin_stars_limit: 2
+          plugin_traffic: yes
