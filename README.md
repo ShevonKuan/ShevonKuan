@@ -1,5 +1,7 @@
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+
 - 🔭 I’m currently working on 
   - Chemical Instrument & Automation
   - Computer Vision
@@ -12,9 +14,6 @@
   - TG: Telegram：[`@shevonkuan`](https://t.me/shevonkuan)
   - Email: [📧](mailto:shevonkuan@datagrids.cn)
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShevonKuan&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shevonkuan&hide=css&layout=compact&theme=onedark&langs_count=10)](https://github.com/shevonkuan/github-readme-stats)
 
