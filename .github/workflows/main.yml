@@ -33,7 +33,7 @@ jobs:
           config_padding: 0, 8+11%
           config_timezone: Asia/Shanghai
           plugin_activity: yes
-          plugin_activity_days: 14
+          plugin_activity_days: 61
           plugin_activity_filter: all
           plugin_activity_limit: 3
           plugin_activity_load: 300
@@ -63,7 +63,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 12
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 365
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_skipped: latex_equation,kms_generate
