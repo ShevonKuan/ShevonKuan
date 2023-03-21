@@ -1,4 +1,4 @@
-## Hey 🌸, I'm ✨Shevon・Kuan✨!  这是一只小 Shevon
+## Hey 🌸, I'm ✨Shevon・Kuan✨!  这是一只小 Shevon 喵~~~~~~~~~~~🐱
  
 ### 哇终于有人来看 Shevon了!  
 ## 🔭 I’m currently working on 目前工作方向
