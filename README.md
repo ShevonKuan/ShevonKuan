@@ -45,11 +45,11 @@
 ## Latest Updates 最近更新  
 
 <a href="https://github.com/shevonkuan/translate-server">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=translate-server" />
+  <img  src="https://gh-stats.343.re/api/pin/?username=shevonkuan&repo=translate-server" />
 </a>
 
 <a href="https://github.com/shevonkuan/csgo_investment">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=csgo_investment" />
+  <img  src="https://gh-stats.343.re/api/pin/?username=shevonkuan&repo=csgo_investment" />
 </a>
 
 ## Technology Stack
