@@ -43,11 +43,15 @@
 
 
 ## Latest Updates 最近更新  
-
+<a href="https://github.com/ShevonKuan/ACL4SSR/">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=ACL4SSR" />
+</a>
+<a href="https://github.com/shevonkuan/sub-web">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=sub-web" />
+</a>
 <a href="https://github.com/shevonkuan/translate-server">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=translate-server" />
 </a>
-
 <a href="https://github.com/shevonkuan/csgo_investment">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=csgo_investment" />
 </a>
