@@ -15,7 +15,7 @@
 
 ## 💬 Ask me about anything you like 可以讨论和我任何问题哦，虽然人家什么都不会 /(ㄒoㄒ)/~~
 
-<a href="https://t.me/shevonkuan" target="_blank">
+<a href="https://t.me/shevonkwan" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/shevonkuan" target="_blank">
