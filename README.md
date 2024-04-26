@@ -1,11 +1,19 @@
 ## Hey 🌸, I'm ✨Shevon・Kuan✨!  这是一只小 Shevon 喵~~~~~~~~~~~🐱
- 
+
 ### 哇终于有人来看 Shevon了!  
+ <a href="https://www.patreon.com/shevonkuan" target="_blank">
+ <img src=https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white alt=patreon style="margin-bottom: 5px;" />
+  
+  <img src="https://komarev.com/ghpvc/?username=shevonkuan&&style=flat"/>
+ </a> 
+
+ 
 ## 🔭 I’m currently working on 目前工作方向
   - Natural Language Processing (NLP) 自然语言处理
   - Time Series Prediction 时间序列预测
   - Short-term Load Forecasting Model (STELF) 短期能耗预测
   - Something interesting 有趣的事情
+  - CAPE Optimization Software Develop 计算机辅助过程工程优化软件开发
 
 ## 🌱 I’m currently learning 努力努力变聪明
   - Process Systems Engineering & Automation 化工过程与自动化
@@ -43,18 +51,10 @@
 
 
 ## Latest Updates 最近更新  
-<a href="https://github.com/ShevonKuan/ACL4SSR/">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=ACL4SSR" />
-</a>
-<a href="https://github.com/shevonkuan/sub-web">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=sub-web" />
-</a>
-<a href="https://github.com/shevonkuan/translate-server">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=translate-server" />
-</a>
-<a href="https://github.com/shevonkuan/csgo_investment">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=csgo_investment" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=SCUT-thesis)](https://github.com/ShevonKuan/SCUT-thesis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=ACL4SSR)](https://github.com/ShevonKuan/ACL4SSR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=csgo_investment)](https://github.com/ShevonKuan/csgo_investment)
+
 
 ## Technology Stack
 <table><tr><td valign="top" width="50%">
@@ -98,7 +98,7 @@
 
 ### Develop Platforms 开发平台
 <div align="center">  
-<img  src="https://img.shields.io/badge/NVIDIA-Titan RTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="" height="20" />
+<img  src="https://img.shields.io/badge/Apple-Mac_Mini_M1-999999?style=for-the-badge&logo=apple&logoColor=white" alt="" height="20" />
 <img  src="https://img.shields.io/badge/NVIDIA-RTX 2080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="" height="20" />
 <img  src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="" height="20" />
 <img  src="https://img.shields.io/badge/AMD-Ryzen_7_4800U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="" height="20" />
@@ -109,7 +109,7 @@
 <img  src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="" height="20" />
 <img  src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="" height="20" />
 <img  src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" alt="" height="20" />
-<img  src="https://img.shields.io/badge/Android-14-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="" height="20" />
+<img  src="https://img.shields.io/badge/Android-15-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="" height="20" />
 </div>
 </td><td valign="top" width="50%">
 
@@ -173,19 +173,17 @@
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+![](https://github-profile-trophy.vercel.app/?username=shevonkuan)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShevonKuan&count_private=true&show_icons=true&include_all_commits=true" align="left" style="height: 100%" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevonkuan&layout=compact&hide=html,css,shell" height="150" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShevonKuan&count_private=true&show_icons=true&include_all_commits=true&theme=radical" height="150" />
+</a>
 
-</td><td valign="top" width="50%">
+<details>
+<summary>Latest Dev Stats</summary>
+ 
+> ![Metrics](/github-metrics.svg)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevonkuan&layout=compact&hide=html,css,shell" align="left" style="height: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=shevonkuan&&style=flat-square)  
-
-![Metrics](/github-metrics.svg)
+</details>
   
