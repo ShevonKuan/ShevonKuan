@@ -52,8 +52,6 @@
 
 ## Latest Updates 最近更新  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=SCUT-thesis)](https://github.com/ShevonKuan/SCUT-thesis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=ACL4SSR)](https://github.com/ShevonKuan/ACL4SSR)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shevonkuan&repo=csgo_investment)](https://github.com/ShevonKuan/csgo_investment)
 
 
 ## Technology Stack
