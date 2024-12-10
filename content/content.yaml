@@ -250,4 +250,3 @@ personal: # links
 
 follower-card:
     server: https://github-personal-card.vercel.app
-    margin: 5

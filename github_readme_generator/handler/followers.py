@@ -11,5 +11,5 @@ class Followers:
         server = c.get("server", "https://github-personal-card.vercel.app")
         margin = c.get("margin","5")
         for i in l:
-            output += f'<a href="https://github/{i}"><img src="{server}/card?username={i}&margin={margin}" alt="{i}" width="{c.get("width","50%")} align="center"/></a>'
+            output += f'<a href="https://github/{i}"><img src="{server}/card?username={i}&margin={margin}" alt="{i}" width="{c.get("width","30%")}" align="center"/></a>'
         return output
