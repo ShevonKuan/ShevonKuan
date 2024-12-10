@@ -20,7 +20,9 @@ jobs:
             python-version: 3.12
 
         - name: Generate README.md
-          run: python -m github_readme_generator -c content/content.yaml -t README_template.md -o README.md
+          run: |
+            pip install pyyaml
+            python -m github_readme_generator -c content/content.yaml -t README_template.md -o README.md
           env: 
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         - name: Commit and push changes
