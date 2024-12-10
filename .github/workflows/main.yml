@@ -24,7 +24,7 @@ jobs:
             pip install PyYAML requests
             python -m github_readme_generator -c content/content.yaml -t README_template.md -o README.md
           env: 
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         - name: Commit and push changes
           run: |
             git config --local user.email "action@github.com"
