@@ -13,7 +13,7 @@ class GraphqlQuery:
         self.count = 0
         self.get_rate_limit()
     def get_rate_limit(self):
-        print("Github API token remain: ", self.query_use_file("RateLimit"))
+        print("Github API token remain: ", self.query_use_file("rateLimit"))
     def query_use_file(self, graphqlFile: str):
         # 构建GraphQL查询
         with open(
