@@ -216,7 +216,7 @@ stats:
             width: 47%
             hide_border: true
         repo-card:
-            width: 30%
+            width: 33%
             description_lines_count: 3
     github-profile-trophy:
         username: shevonkuan
