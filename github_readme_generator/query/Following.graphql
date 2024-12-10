@@ -1,6 +1,6 @@
 query ($after: String) {
     viewer {
-        following(first: 30, after: $after) {
+        following(first: 20, after: $after) {
             #分页
             pageInfo {
                 hasNextPage
@@ -12,7 +12,7 @@ query ($after: String) {
                 login
                 # 评估指标
                 repositories(
-                    first: 20
+                    first: 15
                     orderBy: { field: STARGAZERS, direction: DESC }
                     ownerAffiliations: OWNER
                 ) {
