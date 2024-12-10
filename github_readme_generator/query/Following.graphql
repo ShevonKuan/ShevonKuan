@@ -1,0 +1,28 @@
+query ($after: String) {
+    viewer {
+        following(first: 30, after: $after) {
+            #分页
+            pageInfo {
+                hasNextPage
+                endCursor
+            }
+
+            totalCount
+            nodes {
+                login
+                # 评估指标
+                repositories(
+                    first: 20
+                    orderBy: { field: STARGAZERS, direction: DESC }
+                    ownerAffiliations: OWNER
+                ) {
+                    nodes {
+                        stargazers {
+                            totalCount
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+query ($after: String) {
+    viewer {
+        # 所有followers
+        followers(first: 80, after: $after) {
+            # 分页
+            pageInfo {
+                hasNextPage
+                endCursor
+            }
+            totalCount
+            nodes {
+                # 用户名
+                login
+                followers {
+                    totalCount
+                }
+                following {
+                    totalCount
+                }
+                repositoriesContributedTo {
+                    totalCount
+                }
+            }
+        }
+    }
+}

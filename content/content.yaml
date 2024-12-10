@@ -1,0 +1,253 @@
+readme-typing:
+    font: IBM Plex Mono
+    font_weight: 400
+    font_size: 45
+    duration: 2000
+    color: FFB3A2
+    center: false
+    vCenter: true
+    width: 600
+    height: 47
+    lines: ✨ 喵～是 shevon 吖～shevon 在这里喵～!!! ✨ 
+    repeat: false
+
+technology-stacks:
+    theme: unify # colorful or unify
+    style: flat-square
+    theme-color: f6f8fa
+    badges:
+        - title: Frontend 前端
+          badge:
+              - icon: javascript
+              - icon: typescript
+              - icon: react
+              - icon: vue.js
+              - icon: angular
+              - icon: nuxt.js
+              - icon: next.js
+              - icon: jquery
+              - icon: html5
+              - icon: sass
+              - icon: bootstrap
+              - icon: material design
+              - icon: tailwind css
+              - icon: bulma
+              - icon: mui
+              - icon: ionic
+              - icon: apache echarts
+              - icon: mapbox
+              - icon: node.js
+              - icon: express
+              - icon: elasticsearch
+              - icon: electron
+              - icon: webpack
+              - icon: vite
+              - icon: npm
+              - icon: yarn
+              - icon: pnpm
+              - icon: nvm
+        - title: UX/UI 设计
+          badge:
+              - icon: figma
+              - icon: adobe xd
+              - icon: adobe photoshop
+              - icon: adobe illustrator
+              - icon: adobe after effects
+              - icon: adobe premiere pro
+              - icon: adobe lightroom
+              - icon: adobe indesign
+              - icon: adobe audition
+              - icon: blender
+              - icon: autodesk maya
+              - icon: dassault systèmes
+                title: SolidWorks
+        - title: Backend 后端
+          badge:
+              - icon: javascript
+              - icon: php
+              - icon: node.js
+              - icon: python
+              - icon: go
+              - icon: mysql
+              - icon: redis
+              - icon: postgresql
+              - icon: mariadb
+              - icon: oracle
+              - icon: mongodb
+              - icon: influxdb
+              - icon: flask
+              - icon: django
+              - icon: gin
+              - icon: laravel
+              - icon: grafana
+              - icon: apache kafka
+              - icon: graphql
+        - title: DevOps 开发与运维
+          badge:
+              - icon: linux
+              - icon: gnu bash
+              - icon: zsh
+              - icon: amazon web services
+              - icon: oracle
+              - icon: google cloud
+              - icon: alibaba cloud
+              - icon: openstack
+              - icon: vmware
+              - icon: docker
+              - icon: kubernetes
+              - icon: git
+              - icon: gitlab
+              - icon: gitea
+              - icon: jira
+              - icon: bitbucket
+              - icon: confluence
+              - icon: portainer
+              - icon: nginx
+              - icon: cloudflare
+              - icon: vercel
+              - icon: prettier
+              - icon: hexo
+              - icon: arduino
+              - icon: drone
+              - icon: google tag manager
+              - icon: google search console
+        - title: Algorithm & Machine Learning 算法和机器学习
+          badge:
+              - icon: tensorflow
+              - icon: keras
+              - icon: pytorch
+              - icon: numpy
+              - icon: pandas
+              - icon: scipy
+              - icon: opencv
+              - icon: sympy
+              - icon: wolfram
+              - icon: ollama
+              - icon: apache spark
+              - icon: apache hadoop
+        - title: Platform 开发平台
+          badge:
+              - icon: apple
+                description: mac mini M1
+              - icon: nvidia
+                description: RTX 2080ti
+              - icon: amd
+                description: Ryzen 7 3800x
+              - icon: amd
+                description: Ryzen 7 4800u
+              - icon: intel
+                description: xeon platinum @ 2.5Ghz
+              - icon: snapdragon
+                description: SM8250
+              - icon: raspberry pi
+                description: PI 4B
+              - icon: raspberry pi
+                description: Pi 5
+              - icon: synology
+                description: DS918+
+        - title: Operation System 操作系统
+          badge:
+              - icon: >-
+                    data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+PHBhdGggZmlsbD0iIzAwNzhkNCIgZD0iTTY3LjMyOCA2Ny4zMzFoNjAuNjY5VjEyOEg2Ny4zMjh6bS02Ny4zMjUgMGg2MC42NjlWMTI4SC4wMDN6TTY3LjMyOCAwaDYwLjY2OXY2MC42NjlINjcuMzI4ek0uMDAzIDBoNjAuNjY5djYwLjY2OUguMDAzeiIvPjwvc3ZnPg==
+                title: windows
+                color: 1a78cf
+                description: Win 11 insider preview
+              - icon: apple
+                description: macOS Sequoia
+              - icon: red hat
+                description: REHL 9
+              - icon: fedora
+                description: 40 & rawhide
+              - icon: manjaro
+              - icon: debian
+              - icon: centos
+              - icon: alpine linux
+              - icon: android
+                description: a14 & a15
+stats:
+    streak-stats:
+        user: shevonkuan
+        theme: buefy
+        hide_border: true
+        border_radius:
+        locale: en
+        mode: weekly
+        card_width: 400 # svg_width
+        width: 50% # render_frame_width
+        card_height: 150
+        align: right
+    github-readme-stats:
+        server: https://github-readme-stats-shevon.vercel.app
+        common_options:
+            theme: buefy
+            username: shevonkuan
+            cache_seconds: 60 # default: 21600
+            locale: en
+            border_radius:
+        stats-card:
+            card_width: 400
+            count_private: true
+            show_icons: true
+            includ_all_commits: true
+            rank_icon: percentile # github percentile default
+            show: reviews,prs_merged,prs_merged_percentage # additional items
+            #custom_title:
+            align: center
+            width: 43%
+            hide_border: true
+        language-card:
+            card_width: 400
+            hide: html,fluent,roff,ejs,stylus # list of languages to hide
+            layout: compact # Switches between five available layouts normal & compact & donut & donut-vertical & pie.
+            langs_count: 15 # Number of languages to show in the card
+            exclude_repo: # List of repositories to exclude from the card
+            size_weight: 0.5
+            count_weight: 0.5
+            #custom_title:
+            align: right
+            width: 40%
+            
+        waka-stats:
+            align: center
+            layout: compact
+            langs_count: 15
+            display_format: time
+            custom_title: Latest Coding Activity (last year)
+            width: 47%
+            hide_border: true
+        repo-card:
+            width: 30%
+            description_lines_count: 3
+    github-profile-trophy:
+        username: shevonkuan
+        theme: algolia
+        row: 1
+        column: 9
+        margin-w: 10
+        margin-h: 10
+        no-bg: true
+        no-frame: true
+        align: center
+        width: 100%
+    widgetbite-views:
+        username: shevonkuan
+        align: center
+        width: 30%
+    profile-views:
+        username: shevonkuan
+        style: flat-square
+
+personal: # links
+    telegram: https://t.me/shevonkwan
+    linkedin: https://linkedin.com/in/舒文-关-068043159
+    twitter: https://twitter.com/shevonkuan
+    kaggle: https://www.kaggle.com/shevonkwan
+    wechat: https://raw.githubusercontent.com/ShevonKuan/images/main/202303212205127.jpg
+    gmail: mailto:drshevonkuan@gmail.com
+    github: https://github.com/shevonkuan
+    stackoverflow: https://stackoverflow.com/users/16433610
+    patreon: https://www.patreon.com/shevonkuan
+
+follower-card:
+    server: https://github-personal-card.vercel.app
+    margin: 5

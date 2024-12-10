@@ -1,0 +1,49 @@
+query {
+    viewer {
+        # 最近star的仓库
+        starredRepositories(
+            first: 6
+            orderBy: { field: STARRED_AT, direction: DESC }
+        ) {
+            nodes {
+                owner {
+                    login
+                }
+                name
+                url
+            }
+        }
+        # 我最近更新的仓库
+        latestUpdateRepo: repositories(
+            first: 7
+            privacy: PUBLIC
+            orderBy: { field: UPDATED_AT, direction: DESC }
+        ) {
+            nodes {
+                owner {
+                    login
+                }
+                name
+                url
+                updatedAt
+            }
+        }
+        # 我最多星星的仓库
+        mostStarRepo: repositories(
+            ownerAffiliations: OWNER
+            first: 6
+            orderBy: { field: STARGAZERS, direction: DESC }
+        ) {
+            nodes {
+                owner {
+                    login
+                }
+                name
+                url
+                stargazers {
+                    totalCount
+                }
+            }
+        }
+    }
+}
