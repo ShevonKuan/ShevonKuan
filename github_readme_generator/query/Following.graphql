@@ -1,6 +1,6 @@
 query ($after: String) {
     viewer {
-        following(first: 20, after: $after) {
+        following(first: 10, after: $after) {
             #分页
             pageInfo {
                 hasNextPage
