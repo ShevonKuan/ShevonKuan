@@ -1,7 +1,7 @@
 query ($after: String) {
     viewer {
         # 所有followers
-        followers(first: 80, after: $after) {
+        followers(first: 20, after: $after) {
             # 分页
             pageInfo {
                 hasNextPage
