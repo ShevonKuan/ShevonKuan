@@ -17,7 +17,7 @@ query {
         latestUpdateRepo: repositories(
             first: 7
             privacy: PUBLIC
-            orderBy: { field: UPDATED_AT, direction: DESC }
+            orderBy: { field: PUSHED_AT, direction: DESC }
         ) {
             nodes {
                 owner {
