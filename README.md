@@ -41,7 +41,7 @@ COPYRIGHT: Shevon Kuan
 ## 🔭 I’m currently working on 目前工作方向
   - Natural Language Processing (NLP) 自然语言处理
   - Time Series Prediction 时间序列预测
-  - Short-term Load Forecasting Model (STELF) 短期能耗预测
+  - AI-Based Injection Molding Monitoring with Sensor Fusion Technologies
   - Something interesting 有趣的事情
   - CAPE Optimization Software Develop 计算机辅助过程工程优化软件开发
 
@@ -100,4 +100,4 @@ COPYRIGHT: Shevon Kuan
 
 ![profile-views](https://komarev.com/ghpvc/?username=shevonkuan&style=flat-square)
 
-> ©️ Shevon Kwan  2025-09-30 03:49:50
+> ©️ Shevon Kwan  2025-09-30 03:52:48
