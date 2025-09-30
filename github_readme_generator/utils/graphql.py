@@ -1,6 +1,7 @@
 from csv import Error
 import requests
 import json
+import time
 from pathlib import Path
 import os
 
@@ -31,6 +32,7 @@ class GraphqlQuery:
         if response.status_code == 200:
             self.count += 1
             data = response.json()
+            time.sleep(60)
             return data
         raise Error(
             f"Query failed to run by returning code of {response.status_code}. {response.text}"
